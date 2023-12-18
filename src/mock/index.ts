@@ -1,16 +1,16 @@
 import { LocalGithubUser } from 'interfaces/user.interface'
 
 export const defaultUser: LocalGithubUser = {
-  login: 'michey85',
-  avatar: 'https://avatars.githubusercontent.com/u/36237995?v=4',
-  name: 'Mikhail Nepomnyashchiy',
-  company: 'EPAM',
-  blog: 'mishanep.com',
-  location: 'Malaga',
-  bio: 'React/Vue developer',
-  twitter: 'pcgramota',
-  repos: 60,
-  followers: 184,
-  following: 5,
-  created: '2018-02-07T16:18:45Z',
+  login: 'microsoft',
+  avatar: 'https://avatars.githubusercontent.com/u/6154722?v=4',
+  name: 'Microsoft',
+  bio: 'Open source projects and samples from Microsoft',
+  blog: 'https://opensource.microsoft.com',
+  company: 'Microsoft Corporation',
+  created: '2013-12-10T19:06:48Z',
+  followers: 59473,
+  following: 0,
+  location: 'Redmond, WA',
+  repos: 6071,
+  twitter: 'OpenAtMicrosoft',
 }
