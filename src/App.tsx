@@ -12,7 +12,6 @@ import {
   LocalGithubUser,
   GithubError,
 } from 'interfaces/user.interface'
-
 import './App.css'
 function App() {
   const [user, setUser] = useState<LocalGithubUser | null>(defaultUser)
